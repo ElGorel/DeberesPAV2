@@ -1,0 +1,9 @@
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\application\service\AuditoriaService.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\application\service\EstudianteService.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\application\service\interceptors\Auditar.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\application\service\interceptors\AuditoriaInterceptor.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\domain\model\Auditoria.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\domain\model\Estudiante.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\infrastructure\repository\AuditoriaRepositoryImpl.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\infrastructure\repository\EstudianteRepositoryImpl.java
+D:\pa2_u3_p6_ma\AuditoriaInterceptores\src\main\java\ec\com\uce\Main.java

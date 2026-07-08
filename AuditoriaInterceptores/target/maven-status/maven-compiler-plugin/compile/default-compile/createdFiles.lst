@@ -1,0 +1,10 @@
+ec\com\uce\domain\model\Estudiante.class
+ec\com\uce\Main$App.class
+ec\com\uce\application\service\interceptors\AuditoriaInterceptor.class
+ec\com\uce\Main.class
+ec\com\uce\application\service\AuditoriaService.class
+ec\com\uce\application\service\interceptors\Auditar.class
+ec\com\uce\infrastructure\repository\AuditoriaRepositoryImpl.class
+ec\com\uce\infrastructure\repository\EstudianteRepositoryImpl.class
+ec\com\uce\domain\model\Auditoria.class
+ec\com\uce\application\service\EstudianteService.class
