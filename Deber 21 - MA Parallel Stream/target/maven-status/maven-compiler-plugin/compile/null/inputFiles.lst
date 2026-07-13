@@ -1,0 +1,16 @@
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\FacturaService.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\FacturaServiceCompletableFuture.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\FacturaServiceParalelo.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\interceptors\MedirTiempo.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\interceptors\TiempoInterceptor.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\MailService.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\MailServiceTarea.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\ProductoService.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\ReporteService.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\application\service\ReporteServiceTarea.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\domain\model\Factura.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\domain\model\Mail.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\domain\model\Producto.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\domain\model\Reporte.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\infrastructure\repository\FacturaRepositoryImpl.java
+D:\pa2_u3_p6_ma\src\main\java\ec\com\uce\Main.java
